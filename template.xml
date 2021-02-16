@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template xmlns="http://www.w3.org" version="0.20" name="skin_medilias">
+  <style id="skin_medilias" name="skin_medilias" image_directory="images" css_file="skin_medilias" sound_directory="sound" font_directory="fonts"/>
+</template>
